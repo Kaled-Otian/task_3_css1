@@ -1,0 +1,81 @@
+.assign-1-shape-1 {
+    background-color: rgb(138, 43, 226, 1.0);
+}
+
+.assign-1-shape-2 {
+    background-color: rgb(138, 43, 226, 0.50);
+}
+
+.assign-1-shape-3 {
+    background-color: rgba(138, 43, 226, 0.1);
+}
+
+.task1 div {
+    width: 500px;
+    padding: 20px;
+    margin: 8px auto;
+}
+
+.task2 div {
+    width: 400px;
+    height: 400px;
+    margin: 8px;
+    color: goldenrod;
+    background-image: url("../imgs/ushiha.jpg");
+    background-size: 200px;
+}
+
+.assign-2-shape-1 {
+    background-repeat: no-repeat;
+}
+
+.assign-2-shape-2 {
+    background-repeat: repeat-y;
+}
+
+.assign-2-shape-3 {
+    background-repeat: repeat-x;
+}
+
+.assign-2-shape-4 {
+    background-repeat: unset;
+}
+
+.task3 div {
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    outline: solid 5px black;
+}
+
+.shape-1 {
+    border: 5px solid red;
+}
+
+.shape-2 {
+    border: 5px solid;
+    border-color: blue darkgreen;
+}
+
+.shape-3 {
+    border: 5px dashed;
+    border-color: red darkgreen blue yellow;
+}
+
+.task4 div {
+    margin: 8px;
+    padding: 12px;
+    max-width: 400px;
+    max-height: 100px;
+    color: #fff;
+    background-color: #f00;
+    overflow: hidden;
+}
+
+.task5 {
+    color: #000;
+    text-shadow: 1px 1px 0px #f00, 2px 2px 0px #00f, 3px 3px 0px #ee82ee;
+    font-size: 40px;
+}
